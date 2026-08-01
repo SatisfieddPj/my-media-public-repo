@@ -1,0 +1,153 @@
+{
+  "title": "Background Noise Quiz",
+  "description": "Why can't you stand the silence? Let's find out your true psychological driver.",
+  "types": [
+    {
+      "label": "The Overthinker",
+      "minPoints": 170,
+      "image": ""
+    },
+    {
+      "label": "The Focus Seeker",
+      "minPoints": 130,
+      "image": ""
+    },
+    {
+      "label": "The Social Surrogate",
+      "minPoints": 90,
+      "image": ""
+    },
+    {
+      "label": "The Comfort Creature",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "What happens if your room is completely silent?",
+      "choices": [
+        {
+          "label": "My brain starts overthinking.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "I can't concentrate at all.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "I feel deeply lonely.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "I feel weirdly unsafe.",
+          "points": 10,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What is your go-to background noise?",
+      "choices": [
+        {
+          "label": "Fast-paced podcasts.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Lo-Fi or game OSTs.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Twitch streams or vloggers.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Sitcoms I’ve seen 10 times.",
+          "points": 10,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "When do you usually turn the noise on?",
+      "choices": [
+        {
+          "label": "When my thoughts get too loud.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Right before starting work.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Immediately when I get home.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Right before falling asleep.",
+          "points": 10,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "How do you listen to it?",
+      "choices": [
+        {
+          "label": "Volume high, drowning things out.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Low volume, just a steady hum.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Normal volume, like company.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Barely audible, just for the vibe.",
+          "points": 10,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What is your biggest fear about silence?",
+      "choices": [
+        {
+          "label": "Facing my own anxieties.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Getting bored and losing focus.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "The feeling of being totally alone.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "The room feeling cold and empty.",
+          "points": 10,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "title": "Are You the 'Rush to the Gate Just to Wait' Person?",
+  "description": "Discover your true airport personality. Do you panic-wait for hours, or sprint at the final call?",
+  "types": [
+    {
+      "label": "The Panic Rusher (Rabbit)",
+      "minPoints": 130,
+      "image": ""
+    },
+    {
+      "label": "The Chill Planner (Tortoise)",
+      "minPoints": 45,
+      "image": ""
+    },
+    {
+      "label": "The Duty-Free Wanderer (Reindeer)",
+      "minPoints": 20,
+      "image": ""
+    },
+    {
+      "label": "The Final Call Sprinter (Cheetah)",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "When do you arrive at the airport?",
+      "choices": [
+        {
+          "label": "4 hours early. I'm already at the gate.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "2 hours early. Perfectly on time.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "2 hours early, but I'm at Starbucks.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Boarding time? What's that?",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What is your packing style?",
+      "choices": [
+        {
+          "label": "Packed 3 days ago. Checked 10 times.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Packed last night. Checklist ticked.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Packed some, will buy the rest at Duty-Free.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Throwing things in a bag on the way.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "While waiting at the gate, you are...",
+      "choices": [
+        {
+          "label": "Staring intensely at the boarding screen.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Reading a book, neck pillow ready.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Walking around looking at perfumes.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Running through the terminal, sweating.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "You hear a loudspeaker announcement. You...",
+      "choices": [
+        {
+          "label": "Panic! Is my flight canceled?!",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Listen calmly, then ignore it.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Don't hear it, too busy shopping.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Hear 'Final Call' and start sprinting.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Boarding finally begins. You...",
+      "choices": [
+        {
+          "label": "Stand in line before it even opens.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Wait seated until the line shrinks.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Join the line with a shopping bag.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Beg the staff not to close the door.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

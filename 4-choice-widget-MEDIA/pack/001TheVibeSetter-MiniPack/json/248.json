@@ -1,0 +1,153 @@
+{
+  "title": "The Fry Thief Test",
+  "description": "You said you weren't hungry. So why are your hands on my fries?",
+  "types": [
+    {
+      "label": "The Entitled Bear",
+      "minPoints": 17,
+      "image": ""
+    },
+    {
+      "label": "The Stealthy Weasel",
+      "minPoints": 13,
+      "image": ""
+    },
+    {
+      "label": "The \"Just One\" Hamster",
+      "minPoints": 9,
+      "image": ""
+    },
+    {
+      "label": "The Guilty Rabbit",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "The waiter places a fresh basket of fries in front of your friend. You...",
+      "choices": [
+        {
+          "label": "Stare until they offer.",
+          "points": 1,
+          "image": ""
+        },
+        {
+          "label": "Ask for \"just one.\"",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Wait till they look away, then strike.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Grab a handful immediately.",
+          "points": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Your friend says, \"Hey, I thought you weren't hungry!\" You reply:",
+      "choices": [
+        {
+          "label": "\"I'm sorry! They just smell so good.\"",
+          "points": 1,
+          "image": ""
+        },
+        {
+          "label": "\"I'm not, these are just a snack!\"",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "\"What fries? I didn't take any.\"",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "\"Our fries, comrade.\"",
+          "points": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What's your fry-stealing technique?",
+      "choices": [
+        {
+          "label": "The Pleading Eyes.",
+          "points": 1,
+          "image": ""
+        },
+        {
+          "label": "The Slow Drain (one fry every 5 mins).",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "The Distraction: \"Look, a bird!\"",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "The Tax Collector (openly taking 20%).",
+          "points": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "They ordered a small size. Do you still steal?",
+      "choices": [
+        {
+          "label": "Only if they drop one.",
+          "points": 1,
+          "image": ""
+        },
+        {
+          "label": "I'll just take the tiny crispy ones.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "I'll steal when they go to the bathroom.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Yes, size doesn't matter.",
+          "points": 4,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "The last fry is left on the plate. Who gets it?",
+      "choices": [
+        {
+          "label": "Them, I already feel guilty enough.",
+          "points": 1,
+          "image": ""
+        },
+        {
+          "label": "We split it in half!",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Me. I take it while they're chewing.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "I claim it loudly.",
+          "points": 4,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

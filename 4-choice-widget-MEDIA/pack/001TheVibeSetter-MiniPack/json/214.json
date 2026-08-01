@@ -1,0 +1,153 @@
+{
+  "title": "The Thermostat War",
+  "description": "Roommate vs. AC. What's your strategy?",
+  "types": [
+    {
+      "label": "The Vocal Dictator",
+      "minPoints": 160,
+      "image": ""
+    },
+    {
+      "label": "The Sneaky Ninja",
+      "minPoints": 80,
+      "image": ""
+    },
+    {
+      "label": "The Passive Survivor",
+      "minPoints": 40,
+      "image": ""
+    },
+    {
+      "label": "The Oblivious Chill",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "The room feels like a sauna. Your roommate is watching TV.",
+      "choices": [
+        {
+          "label": "\"Turn it to 18°C right now!\"",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Wait till they leave, then change it.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Sigh and turn on a mini desk fan.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "I didn't notice it was hot.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "You wake up freezing at 3 AM. Roommate is asleep.",
+      "choices": [
+        {
+          "label": "Wake them up to complain.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Sneak over and turn off the AC.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Wrap yourself in 3 blankets.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Just sleep through the frostbite.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Roommate asks, \"Is it too cold for you?\"",
+      "choices": [
+        {
+          "label": "\"Yes. Change it.\"",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "\"It's fine.\" (Changes it later)",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "\"I'm okay.\" (Shivers secretly)",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "\"Huh? The AC is on?\"",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Where do you keep the AC remote?",
+      "choices": [
+        {
+          "label": "On my desk. My rules.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "Hidden under my pillow.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Wherever they left it.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "I don't even know what it looks like.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Your ideal room temperature is...",
+      "choices": [
+        {
+          "label": "Exactly what I want it to be.",
+          "points": 40,
+          "image": ""
+        },
+        {
+          "label": "The opposite of my roommate's.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Whatever causes zero drama.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Room temperature.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

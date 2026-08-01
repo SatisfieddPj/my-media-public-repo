@@ -1,0 +1,153 @@
+{
+  "title": "What Does Your Cluttered Room Say About Your Mind?",
+  "description": "Physical clutter reflects mental states. Let's see what your mess reveals about your psychology.",
+  "types": [
+    {
+      "label": "The Creative Chaos",
+      "minPoints": 40,
+      "image": ""
+    },
+    {
+      "label": "The Sentimental Hoarder",
+      "minPoints": 30,
+      "image": ""
+    },
+    {
+      "label": "The Burnt-Out Mess",
+      "minPoints": 15,
+      "image": ""
+    },
+    {
+      "label": "The Fake Minimalist",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "What is the most common item on your floor?",
+      "choices": [
+        {
+          "label": "Art supplies and tangled cords",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Old letters and random gifts",
+          "points": 7,
+          "image": ""
+        },
+        {
+          "label": "A mountain of unwashed clothes",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Nothing (it's all shoved in the closet)",
+          "points": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "How do you usually find your things?",
+      "choices": [
+        {
+          "label": "I just know the exact coordinates",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "I dig through my memory boxes",
+          "points": 7,
+          "image": ""
+        },
+        {
+          "label": "I don't, I just buy a new one",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "It's in the designated junk drawer",
+          "points": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Why haven't you cleaned up yet?",
+      "choices": [
+        {
+          "label": "I'm in the middle of a project!",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "What if I need this 5 years from now?",
+          "points": 7,
+          "image": ""
+        },
+        {
+          "label": "Too exhausted to even stand up",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "My room IS clean (don't open the wardrobe)",
+          "points": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Your desk currently looks like...",
+      "choices": [
+        {
+          "label": "5 half-finished hobbies colliding",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Covered in photos and souvenirs",
+          "points": 7,
+          "image": ""
+        },
+        {
+          "label": "Dirty mugs and snack wrappers",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Perfectly clear, but chaotic drawers",
+          "points": 1,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What happens when guests come over?",
+      "choices": [
+        {
+          "label": "I welcome them into the chaos",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "I show them my cool collections",
+          "points": 7,
+          "image": ""
+        },
+        {
+          "label": "I cancel the plan entirely",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Aggressively sweep it all under the bed",
+          "points": 1,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

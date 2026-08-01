@@ -1,0 +1,73 @@
+{
+  "title": "Hungry Shopping",
+  "description": "Do you overbuy when you're starving? Find out your true hungry-shopper persona.",
+  "types": [
+    {
+      "label": "The Panic Hoarder",
+      "minPoints": 17,
+      "image": ""
+    },
+    {
+      "label": "The Delusional Chef",
+      "minPoints": 13,
+      "image": ""
+    },
+    {
+      "label": "The Sugar Fiend",
+      "minPoints": 9,
+      "image": ""
+    },
+    {
+      "label": "The Instant Eater",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "You enter the supermarket starving. First stop?",
+      "choices": [
+        { "label": "Bulk items", "points": 4, "image": "" },
+        { "label": "Fresh produce", "points": 3, "image": "" },
+        { "label": "Snacks & Candy", "points": 2, "image": "" },
+        { "label": "Hot deli / Ready-to-eat", "points": 1, "image": "" }
+      ]
+    },
+    {
+      "text": "You see a 'Buy 1 Get 1' sign. You:",
+      "choices": [
+        { "label": "Buy 10", "points": 4, "image": "" },
+        { "label": "Check if it's organic", "points": 3, "image": "" },
+        { "label": "Only if it's chocolate", "points": 2, "image": "" },
+        { "label": "Ignore, I want food NOW", "points": 1, "image": "" }
+      ]
+    },
+    {
+      "text": "What is in your shopping cart right now?",
+      "choices": [
+        { "label": "5 bags of rice", "points": 4, "image": "" },
+        { "label": "Truffle oil & kale", "points": 3, "image": "" },
+        { "label": "Ice cream pints", "points": 2, "image": "" },
+        { "label": "A half-eaten sandwich", "points": 1, "image": "" }
+      ]
+    },
+    {
+      "text": "Your excuse for buying so much?",
+      "choices": [
+        { "label": "For the apocalypse", "points": 4, "image": "" },
+        { "label": "I'll cook perfectly all week", "points": 3, "image": "" },
+        { "label": "I deserve a treat", "points": 2, "image": "" },
+        { "label": "(Mouth full) What?", "points": 1, "image": "" }
+      ]
+    },
+    {
+      "text": "You reach the checkout line. You:",
+      "choices": [
+        { "label": "Add batteries, just in case", "points": 4, "image": "" },
+        { "label": "Regret the expensive salmon", "points": 3, "image": "" },
+        { "label": "Grab a candy bar", "points": 2, "image": "" },
+        { "label": "Open a bag of chips", "points": 1, "image": "" }
+      ]
+    }
+  ]
+}

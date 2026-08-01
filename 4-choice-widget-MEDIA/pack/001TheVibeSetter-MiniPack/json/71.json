@@ -1,0 +1,153 @@
+{
+  "title": "Doomscrolling Addiction Test",
+  "description": "How do you react to bad news and drama on your feed?",
+  "types": [
+    {
+      "label": "The Drama Eater",
+      "minPoints": 16,
+      "image": ""
+    },
+    {
+      "label": "The Anxious Scroller",
+      "minPoints": 11,
+      "image": ""
+    },
+    {
+      "label": "The Info Hoarder",
+      "minPoints": 6,
+      "image": ""
+    },
+    {
+      "label": "The Unbothered",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "A massive hashtag drama is trending. You...",
+      "choices": [
+        {
+          "label": "Grab popcorn and read hate comments.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Panic read out of FOMO.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Find a factual timeline summary.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Mute the tag and watch cats.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "It's 2 AM and you see a scary news headline.",
+      "choices": [
+        {
+          "label": "Hunt for memes about it.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Read it and lose sleep.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Fact-check the source.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Swipe away and sleep.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "How often do you feel drained by social media?",
+      "choices": [
+        {
+          "label": "Never, chaos fuels me!",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Always, but I can't stop.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Sometimes, when data is heavy.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Never, I curate my feed.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What’s your reaction to a controversial post?",
+      "choices": [
+        {
+          "label": "Watch people fight.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Feel sad and overwhelmed.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Analyze the arguments.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Scroll past instantly.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Choose your feed's main vibe:",
+      "choices": [
+        {
+          "label": "Spicy gossip and drama.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Doomsday news.",
+          "points": 3,
+          "image": ""
+        },
+        {
+          "label": "Educational deep dives.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Cute pets and memes.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

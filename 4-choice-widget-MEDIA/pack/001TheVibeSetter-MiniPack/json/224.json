@@ -1,0 +1,153 @@
+{
+  "title": "Are You Addicted to the 'One More Game' Lie?",
+  "description": "Find out your gaming self-control level when it's past your bedtime!",
+  "types": [
+    {
+      "label": "The Disciplined Owl",
+      "minPoints": 120,
+      "image": ""
+    },
+    {
+      "label": "The Salty Raccoon",
+      "minPoints": 80,
+      "image": ""
+    },
+    {
+      "label": "The Distracted Monkey",
+      "minPoints": 40,
+      "image": ""
+    },
+    {
+      "label": "The Insomniac Panda",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "It's 1 AM. Your friend says, 'Last game?'",
+      "choices": [
+        {
+          "label": "'Yes, literally the last one. I'm sleeping.'",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "'Only if we win. No ending on a loss.'",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "'Sure, but let me check the daily shop first.'",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "(No response, just hits 'Ready' automatically)",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "You just suffered a crushing defeat. Now what?",
+      "choices": [
+        {
+          "label": "Close the game. Sleep it off.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Queue up instantly. Revenge time!",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Get distracted by a random side quest.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Stare blankly, let the next match load anyway.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What usually keeps you playing past your bedtime?",
+      "choices": [
+        {
+          "label": "Nothing. I respect my sleep schedule.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "My ego. I can't let my rank drop.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "'Ooh, what's over there on the map?'",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "I lost track of time 5 hours ago.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "How do your eyes feel right now?",
+      "choices": [
+        {
+          "label": "Perfectly fine. Well-rested.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Burning with pure rage.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Strained from reading tiny lore text.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Dry, red, and soul-dead.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What's your alarm clock going to do tomorrow?",
+      "choices": [
+        {
+          "label": "Wake me gently after 8 hours of sleep.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "Get snoozed 10 times. I slept at 3 AM.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "Interrupt my dream about gaming.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Bold of you to assume I'll sleep tonight.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

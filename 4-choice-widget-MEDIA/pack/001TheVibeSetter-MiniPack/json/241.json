@@ -1,0 +1,153 @@
+{
+  "title": "Do You Buy Activewear But Never Work Out?",
+  "description": "Discover your true relationship with fitness gear.",
+  "types": [
+    {
+      "label": "The Actual Gym Rat",
+      "minPoints": 24,
+      "image": ""
+    },
+    {
+      "label": "The Athleisure Aristocrat",
+      "minPoints": 16,
+      "image": ""
+    },
+    {
+      "label": "The 'Tomorrow' Athlete",
+      "minPoints": 8,
+      "image": ""
+    },
+    {
+      "label": "The Cafe Marathoner",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "What's the main reason you buy activewear?",
+      "choices": [
+        {
+          "label": "To sweat in it.",
+          "points": 6,
+          "image": ""
+        },
+        {
+          "label": "It's super stretchy.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "To inspire me to start.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "To look fit in photos.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Where do you actually wear your gym clothes?",
+      "choices": [
+        {
+          "label": "At the gym.",
+          "points": 6,
+          "image": ""
+        },
+        {
+          "label": "Grocery shopping.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Nowhere, still in the closet.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "At trendy cafes.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "How often do you wash your workout gear?",
+      "choices": [
+        {
+          "label": "After every single use.",
+          "points": 6,
+          "image": ""
+        },
+        {
+          "label": "When it smells.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Never used, never washed.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Dry clean only.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Your favorite activewear brand is...",
+      "choices": [
+        {
+          "label": "Whatever is durable.",
+          "points": 6,
+          "image": ""
+        },
+        {
+          "label": "Whatever is seamless.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Whatever was on sale.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Whatever is trending.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Be honest, when is your next workout?",
+      "choices": [
+        {
+          "label": "Today.",
+          "points": 6,
+          "image": ""
+        },
+        {
+          "label": "Walking to the fridge.",
+          "points": 4,
+          "image": ""
+        },
+        {
+          "label": "Tomorrow (always).",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Lifting this iced latte.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "title": "Emoji Overthinker?",
+  "description": "Do you over-analyze every dot and emoji, or are you just a dry texter?",
+  "types": [
+    {
+      "label": "The Nervous Rabbit",
+      "minPoints": 40,
+      "image": ""
+    },
+    {
+      "label": "The Golden Puppy",
+      "minPoints": 20,
+      "image": ""
+    },
+    {
+      "label": "The Chill Capybara",
+      "minPoints": 10,
+      "image": ""
+    },
+    {
+      "label": "The Indifferent Cat",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "A friend replies 'ok.' How do you react?",
+      "choices": [
+        {
+          "label": "Panic. They hate me.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Reply with 'ok' back.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Good, they agreed.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Read and ignore.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "They use 3 emojis '😂😂😂'. You use...",
+      "choices": [
+        {
+          "label": "Exactly 3 or 4 to be safe.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Mirror them: '😂😂😂'.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "One '😂' is enough.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "No emojis. Just 'lol'.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What does a missing 'haha' at the end mean?",
+      "choices": [
+        {
+          "label": "A serious shift in tone.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "I'll drop my 'haha' too.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "They just forgot to type it.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Nothing. It's just a text.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "How long do you wait to reply?",
+      "choices": [
+        {
+          "label": "Instantly, but rewrite 5 times.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Same time they took to reply.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Whenever I see it.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "When I feel like it.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Someone ends a text with a period (.).",
+      "choices": [
+        {
+          "label": "Passive-aggressive threat.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Formal mode activated.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Proper grammar. Nice.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "I do that too.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

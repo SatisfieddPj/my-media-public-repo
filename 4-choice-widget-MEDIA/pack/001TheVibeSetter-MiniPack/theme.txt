@@ -1,0 +1,49 @@
+71. Theme: Are You Addicted to Doomscrolling? (Negativity Bias in Media - คุณหยุดนิ้วจากการไถดูข่าวร้ายหรือเรื่องดราม่าไม่ได้ใช่ไหม) 
+
+102. Theme: Are You Overthinking Emojis and Punctuation? (Semiotic Interpretation - คุณเป็นคนคิดมากกับแค่อิโมจิหรือจุดไข่ปลาของอีกฝ่ายเกินไปไหม) 
+
+103. Theme: Why Do You Leave Messages on "Read"? (Avoidant Communication - ทำไมคุณถึงชอบอ่านแชทแล้วไม่ตอบ หรือตอบในใจ) 
+
+110. Theme: Are You Addicted to the "Typing..." Bubble? (Anticipatory Dopamine - คุณเสพติดความรู้สึกลุ้นเวลาเห็นอีกฝ่ายกำลังพิมพ์ข้อความไหม) 
+
+178. Theme: What Does Your Cluttered Room Say About Your Mind? (Physical vs. Mental Clutter - ห้องที่รกสกปรก สะท้อนความว้าวุ่นในสมองของคุณได้แค่ไหน) 
+
+214. Theme: Are You Fighting the Thermostat War? (Illusion of Control - คุณแอบปรับแอร์ขึ้นลงตามใจชอบตอนที่รูมเมทเผลอไหม) 
+
+224. Theme Are You Addicted to the "One More Game" Lie? (Loss of Inhibitory Control - คืนนี้จะเล่นตาตาสุดท้ายจริงๆ หรือลากยาวไปยันตีสี่) 
+
+241. Theme: Do You Buy Activewear But Never Work Out? (Symbolic Self-Completion - ซื้อชุดฟิตเนสแพงๆ มาใส่เดินห้างเพื่อหลอกตัวเองว่าเป็นคนเฮลตี้หรือเปล่า) 
+
+225. Theme: Do You Always Blame the Lag? (Self-Serving Bias - เวลาแพ้โทษเน็ตปิง เวลาชนะอวยว่าตัวเองเก่ง นี่คือคุณใช่ไหม) 
+
+248. Theme: Are You the "I'm Not Hungry" Fry Thief? (Reactance Theory - ปากบอกไม่หิว ไม่สั่ง แต่ชอบมาแย่งเฟรนช์ฟรายส์เพื่อนกิน นี่คือคุณใช่ไหม) 
+
+252. Theme: Do You Always Order the Exact Same Thing? (Status Quo Bias - ไปร้านอาหารเมนูเป็นร้อย แต่ก็สั่งแต่เมนูเดิมๆ ทุกครั้งใช่ไหม) 
+
+254. Theme: Do You Hide a Secret Snack Stash? (Resource Hoarding - คุณแอบซ่อนขนมของโปรดไว้หลังตู้เพราะไม่อยากแบ่งใครในบ้านหรือเปล่า) 
+
+256. Theme: Do You Overbuy When Grocery Shopping Hungry? (Hot-Cold Empathy Gap - การไปเดินซูเปอร์ตอนหิวจัดจนหยิบทุกอย่างมาเกินความจำเป็น) 
+
+296. Theme: Are You the Dictator of the Group Chat? (Locus of Control - คุณชอบตั้งกฎและควบคุมสถานการณ์ในกลุ่มแชทเพื่อนหรือเปล่า) 
+
+336. Theme: Are You the "Rush to the Gate Just to Wait" Person? (Anticipatory Anxiety - อาการล่กวิ่งหน้าตั้งไปที่เกตสนามบินเพื่อไปนั่งรอเงียบๆ เพราะกลัวตกเครื่อง) 
+
+374. Theme: Do You Give "Pity Likes"? (Prosocial Behavior - คุณยอมกดไลก์โพสต์เงียบเหงาของเพื่อนเพื่อรักษาน้ำใจและมิตรภาพหรือเปล่า) 
+
+377. Theme: Do You Panic When You Accidentally Share Your Location? (Privacy Calculus - อาการแพนิครีบลบสตอรี่เพราะเผลอถ่ายติดโลเคชั่นบ้านหรือที่ทำงาน) 
+
+379. Theme: Do You Mute People Instead of Unfollowing? (Conflict Avoidance - คุณเลือกที่จะ Mute สตอรี่เพื่อนที่น่ารำคาญแทนการ Unfollow เพื่อเลี่ยงดราม่าใช่ไหม) 
+
+382. Theme: Do You Turn the Volume Only to Even Numbers? (Need for Symmetry/Order - คุณจะหงุดหงิดถ้าระดับเสียงทีวีหรือแอร์ไม่ได้ลงท้ายด้วยเลขคู่หรือเลข 5 ใช่ไหม) 
+
+386. Theme: Do You Race the Microwave Beep? (Gamification of Routine - คุณเล่นเกมแข่งกับเวลาโดยพยายามเปิดฝาไมโครเวฟให้ทันก่อนเสียงเตือนจะดังใช่ไหม) 
+
+392. Theme: Do You Send Memes Instead of Texting Your Feelings? (Non-Verbal Digital Communication - คุณใช้มีมตลกๆ สื่อสารแทนความรู้สึกเพราะเขินที่จะพิมพ์ตรงๆ หรือเปล่า) 
+
+417. Theme: Do You Read Texts from the Lock Screen to Avoid Opening Them? (Avoidance Coping - คุณแอบอ่านแชทผ่านแจ้งเตือนเพราะขี้เกียจตอบและไม่อยากให้ขึ้น "อ่านแล้ว" ใช่ไหม) 
+
+489. Theme: Do You Judge the People Who Clap When the Plane Lands? (Cultural Nuance Judging - ลึกๆ แล้วคุณแอบกรอกตามองบนคนที่ปรบมือตอนเครื่องบินแลนด์ดิ้งหรือเปล่า) 
+
+494. Theme: Are You Waiting for Friday Just to Stay Home? (Introvert Anticipation - ความตั้งหน้าตั้งตารอวันศุกร์ ไม่ใช่เพื่อไปปาร์ตี้ แต่เพื่อจะได้นอนเปื่อยบนเตียง) 
+
+497. Theme: Do You Keep the TV On Just for "Background Noise"? (Silence Intolerance - คุณทนความเงียบในห้องไม่ได้จนต้องเปิดยูทูปหรือทีวีทิ้งไว้เป็นเพื่อนใช่ไหม) 

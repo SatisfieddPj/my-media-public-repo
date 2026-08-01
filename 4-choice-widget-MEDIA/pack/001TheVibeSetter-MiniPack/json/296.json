@@ -1,0 +1,153 @@
+{
+  "title": "Are You the Dictator of the Group Chat?",
+  "description": "Discover your true locus of control in the group chat. Are you the ruler, the peacekeeper, the troll, or the ghost?",
+  "types": [
+    {
+      "label": "The Chat Dictator",
+      "minPoints": 40,
+      "image": ""
+    },
+    {
+      "label": "The Diplomat",
+      "minPoints": 20,
+      "image": ""
+    },
+    {
+      "label": "The Chaos Agent",
+      "minPoints": 8,
+      "image": ""
+    },
+    {
+      "label": "The Ghost Lurker",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "Setting up a dinner plan. How do you handle it?",
+      "choices": [
+        {
+          "label": "Send a poll with strict deadlines.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Suggest places and ask for votes.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Spam food memes. 'I'm down for whatever.'",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Leave it on read.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Two friends are arguing in the chat. You...",
+      "choices": [
+        {
+          "label": "Tell them to take it to DMs immediately.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Mediate and find a middle ground.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Send popcorn emojis.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Mute the chat for 8 hours.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Someone tries to change your carefully made itinerary.",
+      "choices": [
+        {
+          "label": "Veto it. My plan is final.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Discuss if we can fit it in gracefully.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Agree, then completely forget the new plan.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "I didn't even read the itinerary.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "What's your texting speed and style?",
+      "choices": [
+        {
+          "label": "Rapid paragraphs, proper punctuation.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Warm, clear texts with emojis.",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "10 separate messages for one sentence.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "... (Silence)",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "The group chat has been dead for 3 days.",
+      "choices": [
+        {
+          "label": "Tag everyone and demand a roll call.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "Drop a friendly 'How's everyone doing?'",
+          "points": 5,
+          "image": ""
+        },
+        {
+          "label": "Send a cursed TikTok at 3 AM.",
+          "points": 2,
+          "image": ""
+        },
+        {
+          "label": "Enjoy the peace and quiet.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

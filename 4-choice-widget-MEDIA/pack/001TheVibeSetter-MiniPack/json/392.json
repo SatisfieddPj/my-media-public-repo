@@ -1,0 +1,153 @@
+{
+  "title": "Meme Speaker Quiz",
+  "description": "Do you send memes instead of texting your real feelings?",
+  "types": [
+    {
+      "label": "The Deflector",
+      "minPoints": 110,
+      "image": ""
+    },
+    {
+      "label": "The Soft Confessor",
+      "minPoints": 70,
+      "image": ""
+    },
+    {
+      "label": "The Passive-Aggressive",
+      "minPoints": 30,
+      "image": ""
+    },
+    {
+      "label": "The Self-Deprecating",
+      "minPoints": 0,
+      "image": ""
+    }
+  ],
+  "questions": [
+    {
+      "text": "Your crush texts 'I miss you.' You reply with:",
+      "choices": [
+        {
+          "label": "A deep fried deep-fried cat meme.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "A cute bunny holding a heart.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "A dog rolling its eyes.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "A trash can on fire.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "A friend asks why you look sad. You send:",
+      "choices": [
+        {
+          "label": "An image of a screaming possum.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "A lonely cartoon bear crying.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "A sarcastic 'I'm fine' meme.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "A clown putting on makeup.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "You made a big mistake at work. Your response:",
+      "choices": [
+        {
+          "label": "A monkey looking away nervously.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "A puppy with big 'sorry' eyes.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "A meme about toxic productivity.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "A 'this is my villain arc' meme.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "The group chat is starting a fight. You drop:",
+      "choices": [
+        {
+          "label": "A completely unrelated, absurd video.",
+          "points": 30,
+          "image": ""
+         },
+        {
+          "label": "A 'can't we all get along?' meme.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "The Michael Jackson popcorn meme.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "A 'my life is also bad' joke.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "text": "Someone asks for your future plans. You send:",
+      "choices": [
+        {
+          "label": "An interstellar black hole image.",
+          "points": 30,
+          "image": ""
+        },
+        {
+          "label": "A cozy cottagecore aesthetic.",
+          "points": 20,
+          "image": ""
+        },
+        {
+          "label": "A meme about capitalism destroying dreams.",
+          "points": 10,
+          "image": ""
+        },
+        {
+          "label": "A ghost fading into nothing.",
+          "points": 0,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
